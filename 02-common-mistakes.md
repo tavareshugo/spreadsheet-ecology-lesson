@@ -121,7 +121,7 @@ Underscores (`_`) are a good alternative to spaces and consider writing names in
 ------------- | -------------------- | ---------
 Max_temp     | MaxTemp              | Maximum Temp (°C)
 Precipitation | Precipitation_mm | precmm
-Mean_year_growth | MeanYearGrowth | Mean growth/year
+Mean\_year\_growth | MeanYearGrowth | Mean growth/year
 sex | sex | M/F
 weight | weight | w.
 cell_type | CellType | Cell type

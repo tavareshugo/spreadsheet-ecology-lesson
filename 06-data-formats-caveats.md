@@ -33,7 +33,7 @@ If you want to store your data in `*.csv` and expect that your data may contain 
 
 	species_id,genus,species,taxa
 	"AB","Amphispiza","bilineata","Bird"
-	"AH","Ammospermophilus","harrisi","Rodent-not censused"
+	"AH","Ammospermophilus","harrisi","Rodent-not,censused"
 	"AS","Ammodramus","savannarum","Bird"
 	"BA","Baiomys","taylori","Rodent"
 	"CB","Campylorhynchus","brunneicapillus","Bird"
